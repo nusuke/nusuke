@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nusuke&hide=html,css,scss,javascript&theme=tokyonight)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nusuke&theme=tokyonight)
-
-
 <p align="left">
 </p>
 
